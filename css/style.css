@@ -1,3 +1,5 @@
+/* CSS Start*/
+/* -------------------------------------------------------------------------------- */
 /* Custom CSS */
 .body-background {
   transition: background-color 0.3s ease;
@@ -31,3 +33,5 @@
 .spinning-icon {
   animation: customSpin 2s linear infinite;
 }
+
+/* CSS End  */
