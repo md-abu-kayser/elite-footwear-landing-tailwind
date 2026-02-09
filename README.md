@@ -121,9 +121,8 @@ If you open a pull request, please include a short description of your change an
 
 ### Contact and Maintainer
 
-**Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)  
-**Name:** Md Abu Kayser - Full-Stack Engineer
-
+- **Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)
+- **Name:** Md Abu Kayser - Full-Stack Engineer
 - **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 - **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
 - **Project:** _NikeElite-Premium-Footwear-Landing-Page_
