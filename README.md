@@ -1,4 +1,4 @@
-# Nike Elite - Premium Footwear Landing Page
+# Elite - Premium Footwear Landing Page (Tailwind & DaisyUI)
 
 _A state-of-the-art e-commerce landing page showcasing Nike's premium footwear collection with modern design and seamless user experience._
 
