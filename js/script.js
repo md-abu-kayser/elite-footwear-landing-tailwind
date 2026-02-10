@@ -1,4 +1,5 @@
-// Vanilla JavaScript
+// Vanilla JavaScript Start
+// ------------------------------------------------------------
 const themeSwitcher = document.getElementById("theme-switcher");
 const currentTheme = localStorage.getItem("theme") || "light";
 document.documentElement.setAttribute("data-theme", currentTheme);
@@ -36,3 +37,6 @@ function filterProducts(section) {
 
 const formalFilter = document.getElementById("formal-filter");
 formalFilter.addEventListener("change", filterProducts("formal"));
+
+// Vanilla JavaScript End
+// ----------------------------------------------------------------------->
