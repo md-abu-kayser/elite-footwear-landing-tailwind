@@ -11,12 +11,31 @@ A polished, responsive footwear storefront built with **HTML5, Tailwind CSS, Dai
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Responsive-Design-111111?style=for-the-badge" alt="Responsive Design" />
-  <img src="https://img.shields.io/badge/License-MIT-111111?style=for-the-badge" alt="MIT License" />
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+
+  <a href="https://tailwindcss.com/docs" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  </a>
+
+  <a href="https://daisyui.com/docs/" target="_blank">
+    <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design" target="_blank">
+    <img src="https://img.shields.io/badge/Responsive-Design-111111?style=for-the-badge" alt="Responsive Design" />
+  </a>
+
+  <a href="https://opensource.org/license/mit" target="_blank">
+    <img src="https://img.shields.io/badge/License-MIT-111111?style=for-the-badge" alt="MIT License" />
+  </a>
+
 </p>
 
 ---
@@ -705,8 +724,6 @@ See the [`LICENSE`](./LICENSE) file for the complete license text.
 ## Maintainer
 
 **Md. Abu Kayser**
-
-Frontend Developer | JavaScript | React | Node.js
 
 - GitHub: https://github.com/md-abu-kayser
 - Email: [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
